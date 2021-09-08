@@ -33,24 +33,6 @@ Lihat [Video](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
 
 Lihat Sumber [Video](https://www.youtube.com/watch?v=AkkL2QRJjHw)
 
-# Cara Install LARAVEL 8 di Ubuntu
-1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
-2. Langkah kedua ketikan perintah ```hostnamectl``` 
-3. Langkah ketiga ketikan perintah ```sudo apt install php php-common php-bcmath php-mbstring php-mysql php-tokenizer php-zip``` 
-4. Langkah keempat ketikan perintah ```sudo apt install composer``` 
-5. Selanjutnya baca dokumentasi di [laravel.com](https://laravel.com/docs/8.x) untuk cara instalasi lebih lanjut
-# Untuk menjalankan project Laravel bisa menggunakan
-1. Perintah ```php artisan serve``` ==> Jika komputer dalam keadaan ONLINE
-2. Perintah ```php artisan serve --host=0.0.0.0 -port=8080``` ==> Jika komputer dalam keadaan OFFLINE
-
-*Ket :
-
-```--host=0.0.0.0``` ==> nanti diganti dengan alamat IP PC ketika membuka di Web Browser
-
-```-port=8080``` ==> Diikuti dengan port 8080 dan ini bisa di custome
-
-Lihat [Video](https://www.youtube.com/watch?v=C6pFekvAnr8&t=300s)
-
 # Menginstal Visual Studio Code dengan Paket Snap 
 1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
 2. Langkah kedua ketikan perintah ```sudo snap install --classic code``` 
